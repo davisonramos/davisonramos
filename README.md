@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou explorando todo o ecosistema do **JavaScript**
 
-- 🧑‍🎓 Formado em Sistemas de Informação (UFMT, 2013) | Pós em BI (IGTI, 2017)
+- 🧑‍🎓 Formado em Sistemas de Informação (UFMT, 2013) - MBA em BI (IGTI, 2017)
 
 
 <h3 align="left">Connect with me:</h3>
