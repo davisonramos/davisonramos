@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Eu sou Davison 👋</h1>
-<h3 align="center">Eternamente aprendiz de programação</h3>
+<h3 align="center">Um eterno aprendiz de programação</h3>
 
 - 🔭 Atualmente não trabalho na área, apenas aventuro e busco conheciemntos.
 
