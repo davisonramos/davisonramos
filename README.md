@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou Davison 👋</h1>
 <h3 align="center">Um eterno aprendiz de programação</h3>
 
-- 🔭 Não trabalho na área, apenas aventuro e busco conheciemntos.
+- 🔭 Não trabalho na área, sou bancário, apenas aventuro e busco conheciemntos
 
 - 🌱 Atualmente estou explorando todo o ecosistema do **JavaScript**
 
