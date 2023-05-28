@@ -1,11 +1,13 @@
 <h1 align="center">Olá, Eu sou Davison 👋</h1>
 <h3 align="center">Um eterno aprendiz de programação</h3>
 
-- 🔭 Não trabalho na área, sou bancário, apenas aventuro e busco conheciemntos
+- 🔭 Sou bancário e um dev aventureiro
 
 - 🌱 Atualmente estou explorando todo o ecosistema do **JavaScript**
 
 - 🧑‍🎓 Formado em Sistemas de Informação (UFMT, 2013) - MBA em BI (IGTI, 2017)
+
+- 🧑 Estou aqui com a missão de criar um portfólio para iniciantes/enferrujados;
 
 
 <h3 align="left">Connect with me:</h3>
